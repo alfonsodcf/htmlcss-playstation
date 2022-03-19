@@ -1,0 +1,23 @@
+.cs-bc-blak{
+    background-color: black;
+}
+.cs-bc-green{
+    background-color: green;
+}
+header div img{
+    width: 100px;
+}
+
+#jumbotron{
+ background-image: url(../img/jumbo-bg.png);
+ height: 675px;
+ color: white;
+}
+
+#jumbotron .container{
+    padding-top: 200px;
+}
+
+#jumbotron div img{
+    width: 300px;
+}
