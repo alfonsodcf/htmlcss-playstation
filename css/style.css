@@ -10,6 +10,8 @@ header div img{
 
 #jumbotron{
  background-image: url(../img/jumbo-bg.png);
+ background-size: cover;
+background-position: center;
  height: 675px;
  color: white;
 }
@@ -21,3 +23,59 @@ header div img{
 #jumbotron div img{
     width: 300px;
 }
+
+.presentazione-play{
+    text-align: center;
+}
+
+#gioco-in-evidenza{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+#gioco-in-evidenza div{
+    width: 500px;
+    margin-left: 10px;
+    color: white;
+}
+
+#gioco-in-evidenza div div img{
+    width: 80%;
+}
+
+#Nuove-uscite{
+    background-color: #1F1F1F;
+    color: white;
+}
+
+#Nuove-uscite .container .row div img{
+    width: 100%;
+
+}
+
+.cs-center{
+    text-align: center;
+}
+
+#ps4 .row div img{
+    width: 100%;
+
+} 
+
+#plus{
+    background-color: #BEBCBB;
+}
+
+#plus .container .row div img{
+   width: 100%;
+}
+
+
+ /* #plus-none{
+    display: none;
+}
+#plus-none .col-md-6{
+    display: inline-block;
+}  */
