@@ -76,3 +76,19 @@ background-position: center;
 #playstation-store .row div img{
     width: 100%;
 }
+
+#now{
+    background-color: #161C3B;
+    color: white;
+}
+
+#now .container .row div img{
+    width: 100%;
+ }
+#social .row div img{
+   width: 100%;
+}
+
+header{
+    background-color: #00439C;
+}
